@@ -10,7 +10,7 @@
   "title_7"      : "Willhelm V. von Manderscheid",
   "title_8"      : "Willhelm VI. von Manderscheid",
 
-  "description"  : "Die Manderscheider Ritter regierten vom Sitz der Oberburg das Liesertal und später als Grafen auch die Niederburg und die Stadt Manderscheid.",
+  "description"  : "Die Manderscheider Ritter regierten vom Sitz der Oberburg das Liesertal und später als Grafen auch die Niederburg und die Stadt Manderscheid. Als Grafschaft kommandieren sie kein riesiges Heer doch ihr Verstand ist genauso scharf wie ihre Klingen.",
 
   "unknown_1"    : "(Graf von Manderscheid)",
   "taunt_1"      : "Genug gequasselt. Komm ran, lass prügeln!",
@@ -46,4 +46,5 @@
   "team_losing"  : "Es sieht düster aus. Meine Festung wird standhalten aber unsere Nachschubkolonnen sind abgeschnitten.",
   "help_sent"    : "Haltet durch. Meine Männer und ich sind auf dem Weg und meine Klinge wird keine Gnade kennen!",
   "will_attack"  : "So soll es sein."
+
 }
