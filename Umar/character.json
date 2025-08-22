@@ -175,7 +175,7 @@
     "AttUnitPatrolMax": 0,
     "AttUnitPatrolGroupsCount": 0,
     "AttUnitBackup": "Crossbowman",
-    "AttUnitBackupMax": 10,
+    "AttUnitBackupMax": 25,
     "AttUnitBackupGroupsCount": 0,
     "AttUnitEngage": "Spearman",
     "AttUnitEngageMax": 50,
@@ -192,3 +192,4 @@
   }
 
 }
+
