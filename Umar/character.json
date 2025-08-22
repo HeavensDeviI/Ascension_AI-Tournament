@@ -168,8 +168,8 @@
     "AttDiggingUnitMax": 20,
     "AttUnitVanguard": "Maceman",
     "AttUnitVanguardMax": 50,
-    "AttMaxAssassins": 15,
-    "AttMaxLaddermen": 10,
+    "AttMaxAssassins": 22,
+    "AttMaxLaddermen": 12,
     "AttMaxTunnelers": 10,
     "AttUnitPatrol": "EuropArcher",
     "AttUnitPatrolMax": 0,
@@ -190,4 +190,5 @@
     "AttMainGroupsCount": 1,
     "TargetChoice": "Balanced"
   }
+
 }
