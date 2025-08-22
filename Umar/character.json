@@ -96,13 +96,13 @@
     "Unknown073": 25,
     "RecruitProbDefDefault":17,
     "RecruitProbDefWeak": 0,
-    "RecruitProbDefStrong": 15,
+    "RecruitProbDefStrong": 20,
     "RecruitProbRaidDefault": 60,
     "RecruitProbRaidWeak": 40,
-    "RecruitProbRaidStrong": 30,
+    "RecruitProbRaidStrong": 27,
     "RecruitProbAttackDefault": 23,
     "RecruitProbAttackWeak": 60,
-    "RecruitProbAttackStrong": 55,
+    "RecruitProbAttackStrong": 53,
     "SortieUnitRangedMin": 0,
     "SortieUnitRanged": "Tunneler",
     "SortieUnitMeleeMin": 5,
@@ -190,4 +190,5 @@
     "AttMainGroupsCount": 1,
     "TargetChoice": "Balanced"
   }
+
 }
