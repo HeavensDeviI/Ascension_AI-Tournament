@@ -1,11 +1,12 @@
 {
-  "castle_1"    : "abbot1.aiv",
-  "castle_2"    : "abbot5.aiv",
-  "castle_3"    : "abbot1.aiv",
-  "castle_4"    : "abbot5.aiv",
-  "castle_5"    : "abbot1.aiv",
-  "castle_6"    : "abbot5.aiv",
+  "castle_1"    : "abbot6.aiv",
+  "castle_2"    : "abbot6.aiv",
+  "castle_3"    : "abbot6.aiv",
+  "castle_4"    : "abbot6.aiv",
+  "castle_5"    : "abbot6.aiv",
+  "castle_6"    : "abbot6.aiv",
   "castle_8"    : "abbot1.aiv"
 
 }
+
 
