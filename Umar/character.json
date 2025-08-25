@@ -8,7 +8,7 @@
   "startTroops": {
     "normal": {
       "ArabSwordsman": 4,
-      "ArabArcher": 6
+      "ArabArcher": 8
     },
     "crusader": {
       "Monk": 24,
@@ -192,3 +192,4 @@
   }
 
 }
+
