@@ -7,7 +7,8 @@
   },
   "startTroops": {
     "normal": {
-      "ArabSwordsman": 4,
+      "ArabSwordsman": 3,
+      "FireThrower": 1,
       "ArabArcher": 8
     },
     "crusader": {
@@ -168,7 +169,7 @@
     "AttDiggingUnitMax": 20,
     "AttUnitVanguard": "Maceman",
     "AttUnitVanguardMax": 50,
-    "AttMaxAssassins": 22,
+    "AttMaxAssassins": 20,
     "AttMaxLaddermen": 12,
     "AttMaxTunnelers": 10,
     "AttUnitPatrol": "EuropArcher",
@@ -190,6 +191,4 @@
     "AttMainGroupsCount": 1,
     "TargetChoice": "Balanced"
   }
-
 }
-
