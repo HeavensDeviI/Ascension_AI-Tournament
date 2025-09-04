@@ -154,17 +154,17 @@
     "AttAssaultDelay": 1,
     "AttUnitPatrolRecommandDelay": 2,
     "Unknown132": 5,
-    "SiegeEngine1": "Catapult",
-    "SiegeEngine2": "Catapult",
+    "SiegeEngine1": "BatteringRam",
+    "SiegeEngine2": "BatteringRam",
     "SiegeEngine3": "FireBallista",
     "SiegeEngine4": "SiegeTower",
-    "SiegeEngine5": "Catapult",
-    "SiegeEngine6": "BatteringRam",
-    "SiegeEngine7": "BatteringRam",
+    "SiegeEngine5": "FireBallista",
+    "SiegeEngine6": "FireBallista",
+    "SiegeEngine7": "SiegeTower",
     "SiegeEngine8": "FireBallista",
     "CowThrowInterval": 800,
     "Unknown142": 0,
-    "AttMaxEngineers": 22,
+    "AttMaxEngineers": 24,
     "AttDiggingUnit": "Maceman",
     "AttDiggingUnitMax": 20,
     "AttUnitVanguard": "Maceman",
@@ -191,4 +191,5 @@
     "AttMainGroupsCount": 1,
     "TargetChoice": "Balanced"
   }
+
 }
